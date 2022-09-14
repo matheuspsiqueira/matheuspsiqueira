@@ -1,4 +1,4 @@
-## Oie!! Eu sou o Matheus Siqueira, futuro desenvolvedor e admirador de tecnologia!
+## Olá! Eu sou o Matheus Siqueira 👋🏼
 <div align="center">
   <a href="https://github.com/MatheusPSiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPSiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
