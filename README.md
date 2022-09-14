@@ -1,7 +1,7 @@
 <img align="right" height="550em" src="https://raw.githubusercontent.com/gist/MatheusPSiqueira/979d2c05789bb9d12c121d7dbd593c72/raw/9e6f9812819567a4ee583bbb2e1ab3606f40d257/cardlegal.svg">
 
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Matheus Siqueira</h1>
-<div align="center">
+<div align="left">
   <a href="https://github.com/MatheusPSiqueira">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MatheusPSiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPSiqueira&layout=compact&langs_count=7&theme=dark"/>
