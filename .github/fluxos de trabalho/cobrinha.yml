@@ -1,7 +1,7 @@
 nome : Gerar Dados
 
 em :
-  schedule : # executa a cada 12 horas
+  schedule : # executa a cada 12 hora
 -cron     : " * */12 * * * "
   workflow_dispatch :
 
@@ -10,11 +10,11 @@ empregos :
     name : Jobs para atualizar dados
     run-on : ubuntu-latest
     passos :
-      # Animação de cobra
+      # Animação de cobr
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : rafaballerini
+          github_user_name : MatheusPSiqueira
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
