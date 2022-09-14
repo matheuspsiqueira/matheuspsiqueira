@@ -4,8 +4,8 @@
   <a href="https://github.com/MatheusPSiqueira">
 
 <div align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=MatheusPSiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPSiqueira&layout=compact&langs_count=7&theme=dark"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsiqueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
@@ -15,5 +15,5 @@
   <a href="https://www.linkedin.com/in/matheus-siqueira-755a4020a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/siqueiramt_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
- ![snake gif](https://github.com/MatheusPSiqueira/MatheusPSiqueira/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/matheuspsiqueira/matheuspsiqueira/blob/output/github-contribution-grid-snake.svg)
 </div>
