@@ -4,7 +4,7 @@
   
 <div>
   <a href="https://github.com/MatheusPSiqueira">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsiqueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
