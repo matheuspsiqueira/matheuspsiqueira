@@ -3,7 +3,7 @@
  <h1 align="left">Olá! Eu sou Matheus Siqueira</h1>
   
 <a href="https://github.com/matheuspsiqueira">
-        <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+        <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsiqueira&layout=compact&langs_count=7&theme=dark"/>
       </a>
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Matheus-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-SCSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   
 </div>
