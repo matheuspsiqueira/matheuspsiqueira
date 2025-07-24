@@ -1,4 +1,4 @@
-<img align="right" width="300em" height="655em" src="https://raw.githubusercontent.com/gist/matheuspsiqueira/979d2c05789bb9d12c121d7dbd593c72/raw/535d75157aea55834719d5e5338d6bd9834587b1/cardlegal.svg">
+<img align="right" width="310em" height="655em" src="https://raw.githubusercontent.com/gist/matheuspsiqueira/979d2c05789bb9d12c121d7dbd593c72/raw/535d75157aea55834719d5e5338d6bd9834587b1/cardlegal.svg">
 
 <h2 align="left">Olá!👋 Eu sou Matheus Siqueira</h2>
 
