@@ -14,12 +14,16 @@
 
 <div style="display: inline_block">
 
-  <img align="center" alt="Matheus-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-SCSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" alt="Matheus-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Matheus-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Matheus-SCSS" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Matheus-Python" height="40" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Matheus-Ionic" height="40" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Matheus-React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Matheus-Ionic" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
+  <img align="center" alt="Matheus-Ionic" height="40" width="40" src="https://skillicons.dev/icons?i=linux">
+  <img align="center" alt="Matheus-Ionic" height="40" width="40" src="https://skillicons.dev/icons?i=kali">
+  <img align="center" alt="Matheus-Ionic" height="40" width="40" src="https://skillicons.dev/icons?i=postgres">
   
 </div>
 
